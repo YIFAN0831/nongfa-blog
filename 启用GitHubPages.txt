@@ -1,0 +1,13 @@
+# 手动启用 GitHub Pages
+
+1. 打开 https://github.com/YIFAN0831/nongfa-blog/settings/pages
+
+2. 在 "Build and deployment" 下方的 "Branch" 选项：
+   - 选择 **master**
+   - 点击 Save
+
+3. 等待1-2分钟，网站就会上线
+
+网站地址将是：`https://yifan0831.github.io/nongfa-blog/`
+
+完成后告诉我，我帮你确认一下。
